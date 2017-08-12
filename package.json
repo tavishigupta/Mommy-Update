@@ -1,0 +1,31 @@
+{
+    "author": "Pebble",
+    "dependencies": {},
+    "keywords": [],
+    "name": "mommy-update",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "Mommy Update",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "dummy": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "8C488329-0A39-4A07-81B7-D257567BC3C5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
